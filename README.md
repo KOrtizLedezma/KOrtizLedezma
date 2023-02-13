@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Java.
 - 📫 How to reach me: Kenet2016@icloud.com
 - 😄 Pronouns: He/Him
-- 🇧🇴 Bolivian
+- :bolivia: Bolivian
