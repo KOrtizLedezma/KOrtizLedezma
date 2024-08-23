@@ -1,3 +1,5 @@
+### Hi there! I'm Kenet 👋
+
 - 🔭 I'm a Computer Science major at the University of Florida.
 - 💻 I’m passionate about developing innovative solutions and have experience in full-stack development, and game design.
 - 🤝 Open to collaborating on exciting projects or learning opportunities!
