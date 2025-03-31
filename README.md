@@ -1,10 +1,10 @@
-## Hi there! I'm Kenet 👋
+# Hi there! I'm Kenet 👋
 
 :computer: I'm a Computer Science major at the University of Florida.</br>
 🤝 Open to collaborating on exciting projects or learning opportunities!</br>
-🌐 Check out my work [Here](https://kenetortiz.vercel.app/)</br>
+🌐 Check out my work [here](https://kenetortiz.vercel.app/)</br>
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kenetortizledezma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kenet2016@icloud.com) 
 
 # 💻 Tech Stack:
